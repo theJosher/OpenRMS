@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/Visual%20Studio%20Projects/OpenRMS/Test_OpenRMS
+END
+AuthoringTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/42/Visual%20Studio%20Projects/OpenRMS/Test_OpenRMS/AuthoringTests.txt
+END
+FolderStructureTest.vb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/50/Visual%20Studio%20Projects/OpenRMS/Test_OpenRMS/FolderStructureTest.vb
+END
+OpenRMS.Test.vbproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/48/Visual%20Studio%20Projects/OpenRMS/Test_OpenRMS/OpenRMS.Test.vbproj
+END
+SqLiteFileTest.vb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/42/Visual%20Studio%20Projects/OpenRMS/Test_OpenRMS/SqLiteFileTest.vb
+END
